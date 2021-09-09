@@ -6,8 +6,7 @@ Data visualization ideas for posters and manuscripts. Typically minimalist style
 
 R Studio using [ggplot2](https://github.com/tidyverse/ggplot2) and [Wes Anderson Palettes](https://github.com/karthik/wesanderson).
 
-<h2>Visualizing age trajectories (MinimalistPlots.R)</h2>
-
+<h2>Visualizing age trajectories - <a href="https://github.com/pearlynne/DataViz-Ideas/blob/main/MinimalistPlots.R">MinimalistPlots.R</a> </h2>
 
 * Multilevel model of same data with Level-2 group 
 <img src="https://user-images.githubusercontent.com/41930579/132595070-b75f32c9-4807-44ed-bd74-7006093783ea.png" alt="Group Differences" width="600"/>
