@@ -10,7 +10,7 @@ R Studio using [ggplot2](https://github.com/tidyverse/ggplot2) and [Wes Anderson
 
 | <b>Multilevel model of  data with Level-2 grouping </b> | <b> Individual trajectories over time </b> |
 | ------------- | ------------- |
-| <ul><li>Regulated vs Dysregulated group in trajectories (linear smooth)</li>| <li>Each point represents a single visit/data collection point.</li><li>Volor represents a single subject's growth over time  </ul></li>|
+| <ul><li>Regulated vs Dysregulated group in trajectories (linear smooth)</li>| <li>Each point represents a single visit/data collection point.</li><li>Color represents a single subject's growth over time  </ul></li>|
 |<img src="https://user-images.githubusercontent.com/41930579/132595070-b75f32c9-4807-44ed-bd74-7006093783ea.png" alt="Group Differences" width="600"/> | <img src="https://user-images.githubusercontent.com/41930579/132595073-1d20efaf-62a8-480c-9ede-99a4c33b3387.png " alt="Individual Trajectories" width="600"/> |
 
 <h2>Visualizing effect sizes in studies - <a href="https://github.com/pearlynne/DataViz-Ideas/blob/main/MetaEffectPlots.R">MetaEffect Plots.R</a> </h2>
